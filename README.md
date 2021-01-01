@@ -25,3 +25,8 @@ Un clic sur l’un quelconque de ces boutons modifie l'état de l'objet métier.
 
 ## Langage Informatique 
 -Java
+
+## Comment tester le code 
+
+télécharger le .zip et ouvrir le fichier Feu_Tricolor sur un IDE qui supporte java comme par exemple eclipse ou Jdev 
+et en suite lancer la classe main
