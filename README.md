@@ -1,5 +1,8 @@
 # Feu Tricoleur
-
+![Contribution guidelines for this project](img/test1.JPG)
+![Contribution guidelines for this project](img/test2.JPG)
+![Contribution guidelines for this project](img/test3.JPG)
+![Contribution guidelines for this project](img/test4.JPG)
 ## Description 
 
 Un objet métier « FeuTricolore » possède 2 attributs. Le premier indique si le feu est à l’arrêt ou en
